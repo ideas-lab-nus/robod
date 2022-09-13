@@ -6,6 +6,11 @@ This repository contains the data files, published manuscript and relevant analy
 
 This dataset can be used for benchmarking and supporting data-driven approaches in the field of occupancy prediction and occupant behaviour modelling, building simulation and control, energy forecasting and various building analytics.
 
+If you are interested in using this dataset, please cite our following paper:
+Tekler, Z.D., Ono, E., Peng, Y. et al. ROBOD, room-level occupancy and building operation dataset. Build. Simul. (2022).
+https://doi.org/10.1007/s12273-022-0925-9
+
+
 ## Data Format
 Data collection period: 2021–09-07 00:00 to 2021-12-23 23:55
 
