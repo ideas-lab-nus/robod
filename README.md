@@ -6,7 +6,7 @@ This repository contains the data files, published manuscript and relevant analy
 
 This dataset can be used for benchmarking and supporting data-driven approaches in the field of occupancy prediction and occupant behaviour modelling, building simulation and control, energy forecasting and various building analytics.
 
-## DATA FORMAT 
+## Data Format
 Data collection period: 2021–09-07 00:00 to 2021-12-23 23:55
 
 Each data measurement contains the timestamp information corresponding to the time when the data measurement was recorded and followed the date-time format: YYYY-MM-DD HH:MM +08:00. 
