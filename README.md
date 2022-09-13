@@ -1,6 +1,6 @@
 ## General Information
 
-This repository contains the data files, published manuscript and relevant analysis code for **ROBOD**, Room-level Occupancy and Building Operation Dataset.
+This repository contains the data files and relevant analysis code for **ROBOD**, Room-level Occupancy and Building Operation Dataset.
 
 **ROBOD** is a comprehensive dataset consisting of indoor environmental conditions, Wi-Fi connected devices, energy consumption of end uses (i.e., HVAC, lighting, plug loads and fans), HVAC operations, and outdoor weather conditions collected through various heterogeneous sensors together with the ground truth occupant presence and count information for five rooms located in a university environment. The five rooms include two different-sized lecture rooms, an office space for administrative staff, an office space for researchers, and a library space accessible to all students. A total of 181 days of data was collected from all five rooms at a sampling resolution of 5 minutes.
 
@@ -35,6 +35,6 @@ Each folder in the existing version of the dataset is named based on the followi
 
 <img src="./room_descriptions.png">
 
-## Data Categories Description
+## Data Category Description
 
 <img src="./sensor_descriptions.png">
