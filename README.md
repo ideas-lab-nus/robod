@@ -8,7 +8,7 @@ This dataset can be used for benchmarking and supporting data-driven approaches 
 
 If you are interested in using this dataset, please cite our following paper:
 
-Tekler, Z.D., Ono, E., Peng, Y. et al. ROBOD, room-level occupancy and building operation dataset. Build. Simul. (2022).
+Tekler, Zeynep Duygu, et al. "ROBOD, room-level occupancy and building operation dataset." Building Simulation. Tsinghua University Press, 2022.
 https://doi.org/10.1007/s12273-022-0925-9
 
 
